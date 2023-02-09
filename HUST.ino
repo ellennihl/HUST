@@ -1,3 +1,7 @@
+//Written by Ellen Nihl 2021-09-07. 
+//This code consists of mostly the CAN-bus system integration on an Arduino MEGA with a Can bus shield (mcp2515), made for
+//the solar car of the Halmstad University Solar Team year 2021. The CAN bus consists of a BMS, motorcontroller and the Arduino MEGA
+
 //gör konverterung till char array                                                           DONE
 //koppla bromsgivare. Om hög, sendmsg att current = 0. asså accenable==false och current = 0
 //koppla upp till bms och ta emot värdena. uppdattera idna här
